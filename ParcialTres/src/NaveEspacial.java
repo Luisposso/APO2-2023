@@ -6,4 +6,5 @@ public abstract class NaveEspacial {
 
     public abstract void moverse();
     public abstract void atacar();
+	protected abstract String getTipoNave();
 }

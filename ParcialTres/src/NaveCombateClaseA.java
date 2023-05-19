@@ -19,4 +19,10 @@ public class NaveCombateClaseA extends NaveCombate {
 		// TODO Auto-generated method stub
 		
 	}
+
+	@Override
+	protected String getTipoNave() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
